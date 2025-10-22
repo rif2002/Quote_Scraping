@@ -1,6 +1,5 @@
 # Goodreads Quote Scraper
 
-## Description
 This project is a **Python web scraping tool** that collects quotes and their authors from [Goodreads Quotes](https://www.goodreads.com/quotes).  
 It uses **BeautifulSoup** and **requests** to extract the quotes from multiple pages and stores them in Python lists.  
 
