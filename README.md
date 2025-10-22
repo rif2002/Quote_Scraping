@@ -1,4 +1,3 @@
-# Quote_Scraping
 # Goodreads Quote Scraper
 
 ## Description
