@@ -6,7 +6,6 @@ It uses **BeautifulSoup** and **requests** to extract the quotes from multiple p
 
 This project is intended as a **learning exercise in web scraping, data extraction, and Python automation**. It can be extended to save quotes into a CSV or display them in a web app.
 
----
 
 ## Features
 - Scrapes multiple pages of quotes from Goodreads.  
@@ -14,16 +13,14 @@ This project is intended as a **learning exercise in web scraping, data extracti
 - Stores the quotes and authors in Python lists.  
 - Can be easily extended to save data in CSV or JSON.  
 
----
-
+ 
 ## Technologies Used
 - Python 3.x  
 - `requests` library (to fetch webpages)  
 - `BeautifulSoup` from `bs4` (to parse HTML)  
 - Optionally `pandas` for data storage  
 
----
-
+ 
 ## How to Use
 1. Open the notebook `QUOTE_SCRAPING.ipynb` in Colab or locally.  
 2. Run the scraper function to collect quotes from the desired number of pages.  
